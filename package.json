@@ -1,8 +1,12 @@
 {
-  "name": "Zanga",
+  "name": "zanga",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "12.1.O",
+    "npm": "6.14.4"
+  },
   "scripts": {
     "start": "node index.js",
     "build": "ng build",
@@ -23,3 +27,4 @@
     "express": "^4.17.1"
   }
 }
+# node version: v12.1.0
